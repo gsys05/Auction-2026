@@ -1,31 +1,30 @@
 - id: 0
-  primaryImage: https://www.google.com/imgres?q=dogs%20animated%20pics&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20231021%2Foriginal%2Fpngtree-cute-cartoon-dog-png-file-png-image_13395067.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fcartoon-dog&docid=U7LdFyhjDbSqcM&tbnid=ijWOLdewhqBUCM&vet=12ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQIEhAB..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQIEhAB
-  title: The Wizard Dog
+  primaryImage: Dog 1
   subtitle: A Magical 
   detail: A Dog
-  secondaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
+  secondaryImage:Dog 1
   currency: $
   amount: 100
   endTime: 2023-04-25T00:05:00+00:00
 
 - id: 1
-  primaryImage: https://www.google.com/imgres?q=dogs%20animated%20pics&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fdog-throwing-gesturecartoon-style-emoji-260nw-2324434439.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcartoon-dog&docid=Ip8lCy0o8x3YoM&tbnid=yVj-Bvywsip4xM&vet=12ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQISBAB..i&w=260&h=280&hcb=2&ved=2ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQISBAB
+  primaryImage: Dog 2
   title: The Relaxing Dog
   subtitle: Tropical 
   detail: A carefree Dog
-  secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
+  secondaryImage: Dog 2
   currency: $
   amount: 100
   endTime: 2023-04-25T00:10:00+00:00
 
 - id: 2
-  primaryImage: DALL·E 2023-12-17 17.21.50 - A curious cat peering out of a spaceship window, with distant planets and stars visible in the background, giving a sense of wonder and explorat
+  primaryImage: Dog 3
   title: The Space Explorer Cat
   subtitle: Cosmic Curiosity
   detail: A curious cat gazing from a spaceship window, the cosmos with planets and stars stretching out behind, capturing the spirit of space exploration.
-  secondaryImage: DALL·E 2023-12-17 17.21.50 - A curious cat peering out of a spaceship window, with distant planets and stars visible in the background, giving a sense of wonder and explorat
-  currency: £
-  amount: 20
+  secondaryImage: Dog 3
+  currency: $
+  amount: 100
   endTime: 2023-04-25T00:15:00+00:00
 
 - id: 3
