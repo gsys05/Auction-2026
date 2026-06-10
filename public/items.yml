@@ -1,21 +1,21 @@
 - id: 0
-  primaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
-  title: The Wizard Cat
-  subtitle: A Magical Evening
-  detail: A whimsical cat donning a wizard's attire, standing on hind legs amidst a starry night sky and a crescent moon, casting a spell of charm.
+  primaryImage: https://www.google.com/imgres?q=dogs%20animated%20pics&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20231021%2Foriginal%2Fpngtree-cute-cartoon-dog-png-file-png-image_13395067.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fcartoon-dog&docid=U7LdFyhjDbSqcM&tbnid=ijWOLdewhqBUCM&vet=12ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQIEhAB..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQIEhAB
+  title: The Wizard Dog
+  subtitle: A Magical 
+  detail: A Dog
   secondaryImage: DALL·E 2023-12-17 17.21.27 - A whimsical cat wearing a tiny wizard hat and cape, standing on its hind legs, with a background of twinkling stars and a crescent moon
-  currency: £
-  amount: 55
+  currency: $
+  amount: 100
   endTime: 2023-04-25T00:05:00+00:00
 
 - id: 1
-  primaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
-  title: The Relaxing Cat
-  subtitle: Tropical Bliss
-  detail: A carefree cat lounging in a hammock, encircled by vibrant greenery, sipping a tropical beverage, embodying the essence of relaxation.
+  primaryImage: https://www.google.com/imgres?q=dogs%20animated%20pics&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fdog-throwing-gesturecartoon-style-emoji-260nw-2324434439.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcartoon-dog&docid=Ip8lCy0o8x3YoM&tbnid=yVj-Bvywsip4xM&vet=12ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQISBAB..i&w=260&h=280&hcb=2&ved=2ahUKEwjdttC80_2UAxWNRDABHfpTIdYQnPAOegQISBAB
+  title: The Relaxing Dog
+  subtitle: Tropical 
+  detail: A carefree Dog
   secondaryImage: DALL·E 2023-12-17 17.21.44 - A playful cat lounging in a hammock, surrounded by lush green plants, with a relaxed expression and a tropical drink beside it
-  currency: £
-  amount: 60
+  currency: $
+  amount: 100
   endTime: 2023-04-25T00:10:00+00:00
 
 - id: 2
